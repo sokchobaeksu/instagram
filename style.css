@@ -1,0 +1,18 @@
+h2{
+    color:black;
+}
+.highlight{
+    border:solid;
+    color: brown;
+}
+#profile{
+    border: solid;
+    border-color: blue;
+}
+#top input{
+    
+}
+i{
+    font-size: 40px;
+    color:purple;
+}
